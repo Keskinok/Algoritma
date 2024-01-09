@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "faktöriyel hesaplama", "faktöriyel hesaplama\faktöriyel hesaplama.csproj", "{E37338CB-6365-4EEF-AE8E-B187FBA884E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37338CB-6365-4EEF-AE8E-B187FBA884E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37338CB-6365-4EEF-AE8E-B187FBA884E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37338CB-6365-4EEF-AE8E-B187FBA884E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37338CB-6365-4EEF-AE8E-B187FBA884E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C5E458C-F0B8-457D-9456-A377C198FB73}
+	EndGlobalSection
+EndGlobal
